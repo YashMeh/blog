@@ -1,10 +1,10 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+# Site settings
+# See default settings at https://jekyllrb.com/docs/configuration/#default-configuration
+title: Yash Mehrotra
+description: Learning Distributed Systems and Preparing for Technical Interviews
 
-url: http://brianmaierjr.github.com/long-haul
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+permalink: post/:title
 
 markdown: kramdown
 highlighter: rouge
@@ -19,10 +19,13 @@ navigation:
   - title: Contact
     url: /contact
 
-social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+# Custom variables
+author: Yash Mehrotra
 
-google_analytics: "UA-58263416-1"
+social:
+  github: YashMeh
+  twitter: YashMeh29715504
+  linkedin: yash-mehrotra-ab2573154
+  email: mehrotra.yash9@gmail.com
+
+google_analytics: "UA-169929112-1"
