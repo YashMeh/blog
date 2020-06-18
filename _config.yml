@@ -1,9 +1,9 @@
 # Site settings
 # See default settings at https://jekyllrb.com/docs/configuration/#default-configuration
 title: Yash Mehrotra
-description: Learning Distributed Systems and Preparing for Technical Interviews
+description: Learning distributed systems and have a background in MERN
 
-baseurl: ""
+baseurl: "https://yashmeh.github.io/"
 permalink: post/:title
 
 markdown: kramdown
