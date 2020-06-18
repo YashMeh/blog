@@ -549,7 +549,7 @@ th:last-child {
 .highlight .mo,
 .highlight .nb,
 .highlight .no {
-  color: #8ae234;
+  color: #31708e;
 }
 .highlight .o {
   color: #989daa;
@@ -605,7 +605,7 @@ a {
   color: #31708e;
 }
 a:hover {
-  color: #1b5233;
+  color: #31708e;
 }
 .nav-collapse {
   z-index: 1;
@@ -621,7 +621,7 @@ a:hover {
   width: 100%;
   display: block;
   background: #31708e;
-  border-bottom: 2px solid #349e63;
+  border-bottom: 2px solid #31708e;
 }
 .nav-collapse ul li a {
   color: #fff;
@@ -767,6 +767,7 @@ dd {
 .post .highlight,
 .post img {
   margin-bottom: 2rem;
+  margin-left: 20rem;
 }
 .post .highlight {
   clear: both;
@@ -1103,4 +1104,8 @@ dd {
   .container {
     max-width: 990px;
   }
+}
+.sub-head {
+  color: #a0a8a2;
+  margin-top: 5rem;
 }
