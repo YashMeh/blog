@@ -198,7 +198,7 @@ h4,
 h5,
 h6 {
   margin: 0.5rem 0 1.5rem;
-  font-family: Open Sans, Helvetica, Arial, sans-serif;
+  font-family: "Metal Mania", Helvetica, Arial, sans-serif;
 }
 .h1,
 h1 {
@@ -296,10 +296,10 @@ blockquote {
 .button-secondary,
 .button-tertiary,
 .button__outline {
-  background-color: #2e8b57;
+  background-color: #31708e;
   display: inline-block;
   position: relative;
-  font-family: Open Sans, Helvetica, Arial, sans-serif;
+  font-family: "Metal Mania", Helvetica, Arial, sans-serif;
   text-decoration: none;
   color: #fff;
   font-size: 1em;
@@ -344,11 +344,11 @@ blockquote {
 }
 .button__outline {
   background-color: transparent;
-  border: 3px solid #2e8b57;
-  color: #2e8b57;
+  border: 3px solid #31708e;
+  color: #31708e;
 }
 .button__outline:hover {
-  background-color: #2e8b57;
+  background-color: #31708e;
   color: #fff;
 }
 label {
@@ -377,7 +377,7 @@ input[type="phone"]:focus,
 input[type="search"]:focus,
 input[type="text"]:focus,
 textarea:focus {
-  border: 1px solid #2e8b57;
+  border: 1px solid #31708e;
 }
 input[type="email"].full-width,
 input[type="number"].full-width,
@@ -569,7 +569,7 @@ html {
   box-sizing: inherit;
 }
 body {
-  font-family: PT Serif, Georgia, Times, serif;
+  font-family: "Metal Mania", Georgia, Times, serif;
   line-height: 1.75;
   font-size: 112.5%;
   color: #111;
@@ -581,11 +581,11 @@ body ul {
   margin: 0 0 2rem;
 }
 ::-moz-selection {
-  background: #2e8b57;
+  background: #31708e;
   color: #fff;
 }
 ::selection {
-  background: #2e8b57;
+  background: #31708e;
   color: #fff;
 }
 audio,
@@ -602,7 +602,7 @@ video {
   margin-right: auto;
 }
 a {
-  color: #2e8b57;
+  color: #31708e;
 }
 a:hover {
   color: #1b5233;
@@ -620,7 +620,7 @@ a:hover {
 .nav-collapse ul li {
   width: 100%;
   display: block;
-  background: #2e8b57;
+  background: #31708e;
   border-bottom: 2px solid #349e63;
 }
 .nav-collapse ul li a {
@@ -653,7 +653,7 @@ a:hover {
   float: right;
   line-height: 2em;
   margin-top: 0.5em;
-  background-color: #2e8b57;
+  background-color: #31708e;
   border-radius: 4px;
   padding: 0 0.5em;
   color: #fff;
@@ -691,7 +691,7 @@ dd {
   padding-top: 1em;
 }
 .header {
-  background-color: #2e8b57;
+  background-color: #31708e;
   background-image: url(../img/touring.jpg);
   background-size: cover;
   background-position: 50%;
@@ -709,7 +709,7 @@ dd {
   padding-left: 2rem;
   font-size: 1em;
   line-height: 3em;
-  font-family: Open Sans, Helvetica, Arial, sans-serif;
+  font-family: "Metal Mania", Helvetica, Arial, sans-serif;
   font-weight: 800;
   text-transform: uppercase;
 }
@@ -736,7 +736,7 @@ dd {
 .post blockquote:before {
   content: "";
   position: absolute;
-  background: #2e8b57;
+  background: #31708e;
   display: block;
   height: 2px;
   width: 150px;
@@ -748,7 +748,7 @@ dd {
 .post .meta {
   text-align: center;
   color: gray;
-  font-family: Open Sans, Helvetica, Arial, sans-serif;
+  font-family: "Metal Mania", Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
 .post figure {
@@ -772,7 +772,7 @@ dd {
   clear: both;
 }
 .post .dropcap {
-  color: #2e8b57;
+  color: #31708e;
   margin-right: 0.45rem;
 }
 .post .featuredImage {
@@ -794,7 +794,7 @@ dd {
   height: 5rem;
   overflow: hidden;
   position: relative;
-  font-family: Open Sans, Helvetica, Arial, sans-serif;
+  font-family: "Metal Mania", Helvetica, Arial, sans-serif;
   font-weight: 800;
   font-size: 0.9em;
   text-transform: uppercase;
@@ -876,7 +876,7 @@ dd {
   height: 100%;
 }
 .footer-links ul li a svg .outer-shape {
-  fill: #2e8b57;
+  fill: #31708e;
 }
 .footer-links ul li a svg .inner-shape {
   fill: #fff;
@@ -911,7 +911,7 @@ dd {
 }
 .posts li .date {
   color: gray;
-  font-family: Open Sans, Helvetica, Arial, sans-serif;
+  font-family: "Metal Mania", Helvetica, Arial, sans-serif;
   font-weight: 300;
   font-size: 0.8em;
 }
